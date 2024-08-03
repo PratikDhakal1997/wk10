@@ -18,7 +18,7 @@ const config = {
     user: 'azureuser',
     password: 'P@ssw0rd',
     server: 'classactivity3291.database.windows.net',
-    database: 'wk10',
+    database: 'classActivity3291',
   options: {
     encrypt: true,
     enableArithAbort: true
